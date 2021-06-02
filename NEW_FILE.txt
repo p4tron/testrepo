@@ -1,0 +1,3 @@
+## Test create new file via command line
+
+print("Helooo...!")
